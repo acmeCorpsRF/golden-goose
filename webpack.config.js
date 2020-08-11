@@ -67,10 +67,6 @@ module.exports = {
             template: path.resolve(__dirname, 'src', 'index.html'),
             filename: 'index.html'
         }),
-        new HtmlWebpackPlugin({
-            template: path.resolve(__dirname, 'src', 'index2.html'),
-            filename: 'index2.html'
-        }),
         new MiniCssExtractPlugin({
             filename: 'styles.[contenthash].css'
         }),
