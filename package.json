@@ -1,5 +1,5 @@
 {
-  "name": "genotek",
+  "name": "golden-goose",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,13 +9,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/acmeCorpsRF/genotek.git"
+    "url": "git+https://github.com/acmeCorpsRF/golden-goose.git"
   },
   "author": "Nikolai Ivanov",
   "bugs": {
-    "url": "https://github.com/acmeCorpsRF/genotek/issues"
+    "url": "https://github.com/acmeCorpsRF/golden-goose/issues"
   },
-  "homepage": "https://github.com/acmeCorpsRF/genotek#readme",
+  "homepage": "https://github.com/acmeCorpsRF/golden-goose#readme",
   "devDependencies": {
     "@babel/core": "^7.8.7",
     "@babel/preset-env": "^7.8.7",
